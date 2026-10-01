@@ -27,7 +27,5 @@
 - R^T * R = I, so the inverse of R is its transpose, and det(R) = +1.
 - Uses: represent orientation, change reference frame, rotate a vector.
 
-## Reflection
-[Add 1-2 lines in your own words about what clicked and what you want to practise.]
 
 *Part of the Robotics Initiative by Srushti Technologies, Day 01.*# Day-1
